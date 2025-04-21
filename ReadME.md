@@ -28,12 +28,6 @@ Ta implementacja **faworyzuje pisarzy**, tzn. gdy pisarz czeka, nowi czytelnicy 
 
 ## ▶️ Uruchomienie
 
-### IntelliJ IDEA
-
-1. Otwórz projekt w IntelliJ IDEA.
-2. Przejdź do pliku `Main.java`.
-3. Kliknij prawym przyciskiem i wybierz **Run 'Main'**.
-
 ### Z linii poleceń
 
 ```bash
